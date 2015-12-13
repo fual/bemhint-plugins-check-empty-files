@@ -1,7 +1,11 @@
+# BEM hint plugin for finding empty files
+
+## Config example
+
 ```json
 {
     "levels": [
-        "blocks"
+        "*.blocks"
     ],
 
     "excludePaths": [
