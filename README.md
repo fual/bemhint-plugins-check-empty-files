@@ -1,4 +1,4 @@
-# [bemhint][bemhint] plugin for finding empty files
+# [Bem hint](https://github.com/bem/bemhint) plugin for finding empty files
 
 ## Config example
 
