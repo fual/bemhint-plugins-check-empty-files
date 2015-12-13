@@ -1,0 +1,14 @@
+{
+  "name": "bemhint-plugin-check-fs-empties",
+  "version": "1.0.0",
+  "description": "check empty files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bem"
+  ],
+  "author": "akhlebaev",
+  "license": "MIT"
+}
