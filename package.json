@@ -1,5 +1,5 @@
 {
-  "name": "bemhint-plugin-check-empty-files",
+  "name": "bemhint-plugins-check-empty-files",
   "version": "1.0.0",
   "description": "check empty files",
   "main": "index.js",
