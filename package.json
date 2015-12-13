@@ -1,5 +1,5 @@
 {
-  "name": "bemhint-plugin-check-fs-empties",
+  "name": "bemhint-plugin-check-empty-files",
   "version": "1.0.0",
   "description": "check empty files",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "keywords": [
     "bem"
   ],
-  "author": "akhlebaev",
+  "author": "Vadim Yalovenko, Alexey Khlebaev",
   "license": "MIT"
 }
