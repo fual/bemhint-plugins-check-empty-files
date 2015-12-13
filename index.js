@@ -6,9 +6,8 @@ module.exports = {
                 msg: 'Empty file',
                 tech: tech.tech
             };
-            
+
             entity.addError(error);
         }
-
     }
 };
