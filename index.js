@@ -1,4 +1,4 @@
-module.forEntityTech = function (tech, techsConfig, entity) {
+module.exports.forEntityTech = function (tech, techsConfig, entity) {
     if (!tech.content) {
         entity.addError({
             msg: 'Empty file',
