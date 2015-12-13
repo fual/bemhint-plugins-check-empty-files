@@ -3,5 +3,4 @@ module.exports.forEntityTech = function (tech, techsConfig, entity) {
         msg: 'Empty file',
         tech: tech.tech
     });
-    }
 };
