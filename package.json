@@ -1,6 +1,6 @@
 {
   "name": "bemhint-plugins-check-empty-files",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "check empty files",
   "main": "index.js",
   "keywords": [
