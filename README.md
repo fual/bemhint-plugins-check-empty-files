@@ -9,7 +9,7 @@
     ],
 
     "excludePaths": [
-        "node_modueles/**"
+        "node_modules/**"
     ],
 
     "plugins": {
