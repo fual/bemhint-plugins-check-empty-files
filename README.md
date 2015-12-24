@@ -13,7 +13,7 @@
     ],
 
     "plugins": {
-        "bemhint-plugin-check-empty-files": {
+        "bemhint-plugins-check-empty-files": {
             "techs": {
                 "styl": true
             }

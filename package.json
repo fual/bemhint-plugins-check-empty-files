@@ -3,12 +3,30 @@
   "version": "1.0.0",
   "description": "check empty files",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "bem"
   ],
   "author": "Vadim Yalovenko, Alexey Khlebaev",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "fual/bemhint-plugins-check-empty-files",
+  "bugs": {
+    "url": "https://github.com/fual/bemhint-plugins-check-empty-file/issues"
+  },
+  "homepage": "https://github.com/fual/bemhint-plugins-check-empty-file/",
+  "dependencies": {
+    "es6-module-loader": "^0.17.8"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "chai-as-promised": "^5.1.0",
+    "jscs": "^2.6.0",
+    "jshint": "^2.9.1-rc1",
+    "mocha": "^2.3.2",
+    "sinon": "^1.16.1",
+    "sinon-chai": "^2.8.0",
+    "bemhint": "git+https://github.com/bem/bemhint.git#new-architecture"
+  },
+  "scripts": {
+    "test": "mocha test.js"
+  }
 }
