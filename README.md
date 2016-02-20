@@ -2,22 +2,22 @@
 
 ## Config example
 
-```json
-{
-    "levels": [
+```js
+module.exports = {
+    levels: [
         "*.blocks"
     ],
 
-    "excludePaths": [
-        "node_modules/**"
+    excludePaths: [
+        "node_modueles/**"
     ],
 
-    "plugins": {
-        "bemhint-plugins-check-empty-files": {
-            "techs": {
+    plugins: {
+        "bemhint-plugins-check-file-entity": {
+            techs: {
                 "styl": true
             }
         }
     }
-}
+};
 ```
